@@ -1,6 +1,8 @@
 # Crytyscreener
 
 ## Crytyscreener- Flutter Cryptocurrency Price Tracker Complete App
+### It is a android app where we will show the real time data and also track the cryptocurrency price.
+### Here In our app , price of every cryptocurrency will show and also refresh time to time 
 
 ## --> Flutter Speed Code
 ## --> http: Rest Api
