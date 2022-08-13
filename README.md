@@ -16,8 +16,6 @@
 ### Shaurya Omar
 ### Shivam Tiwari
 ### Divyanshu Rai
-### Prachi Singh
-### Ritika Varshney
 
 # Features
 ## --> Flutter Speed Code
